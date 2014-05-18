@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+OpenIDE-Module: org.officelaf
+OpenIDE-Module-Specification-Version: 1
+OpenIDE-Module-Implementation-Version: 2
+OpenIDE-Module-Install: org/officelaf/Installer.class
+OpenIDE-Module-Layer: org/officelaf/layer.xml
+OpenIDE-Module-Localizing-Bundle: org/officelaf/Bundle.properties
+OpenIDE-Module-Requires: org.openide.windows.WindowManager
